@@ -1,0 +1,16 @@
+{
+	"name": "tailwind-grid-component",
+	"version": "1.0.0",
+	"description": "![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)",
+	"main": "index.js",
+	"scripts": {
+		"dev": "npx tailwindcss build src/styles.css -o public/output.css",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "mrLuisFer",
+	"license": "ISC",
+	"dependencies": {
+		"tailwindcss": "^1.6.2"
+	}
+}
