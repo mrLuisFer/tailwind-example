@@ -1,6 +1,6 @@
 # Frontend Mentor - Single Tailwind Grid Component
 
-![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Single Tailwind Grid Component coding challenge](./src/design/desktop-preview.jpg)
 
 ## Hi! 👋
 
@@ -8,6 +8,6 @@
 
 [Frontend Mentor](https://www.frontendmentor.io)
 
-## The challenge
+## The challenge it is a very simple challenge using Tailwind Css
 
-**It is a very simple challenge using Tailwind Css**
+### LF
